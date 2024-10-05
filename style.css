@@ -125,6 +125,13 @@ header nav a{
     letter-spacing: 3px;
     transition: background 0.5s;
 }
+
+.see2More {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
 .carousel .list .item .introduce .seeMore:hover{
     background: #eee;
 }
